@@ -4,7 +4,7 @@
 **paulsec/paulsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-☁️🤖 Engineering Manager and craftsman in the field of information technology 🚀☕️ - [Microsoft MVP Azure & Internet of Things](https://mvp.microsoft.com/en-us/PublicProfile/5004641)
+☁️🤖 Engineering Manager and craftsman in the field of information technology 🚀☕️ - My personal blog: [https://paulsec.github.io/](https://paulsec.github.io/)
 
 - 💬 Ask me about **Security**, **Python**, **Kafka**, **API** things, ...
 - 📫 How to reach me: [https://twitter.com/paulwebsec](https://twitter.com/paulwebsec), [https://www.linkedin.com/in/paul-amar/](https://www.linkedin.com/in/paul-amar/)
